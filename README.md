@@ -1,2 +1,2 @@
 # TP_DAMA
-Criando um jogo de Damas (1° período)
+BCC201 (1° período)
